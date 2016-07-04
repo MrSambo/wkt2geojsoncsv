@@ -1,2 +1,4 @@
 *.txt
+parsed_output/
+csv-files/
 venv/
